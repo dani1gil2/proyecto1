@@ -1,5 +1,7 @@
-Este es un ejemplo 
+Este es un ejemplo ,
+ y lo estamos modificando.
 
 proyecto 1
 
-ejemplo del curso git y github
+ejemplo del curso git y github.
+esta linea se agrega para ejmplo de modificacion.
